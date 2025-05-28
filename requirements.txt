@@ -1,0 +1,10 @@
+streamlit
+pandas
+datetime
+praw
+plotly
+requests
+textblob
+wordcloud
+matplotlib
+python-dotenv
