@@ -2,8 +2,11 @@
 
 A Streamlit-powered web application that tracks how often a company or person is mentioned across **Reddit** and **Hacker News** over the last 7 days. It also provides sentiment analysis, visual trends, and keyword insights.
 
-![Streamlit UI Screenshot](screenshot.png) <!-- Optional: Add a screenshot image -->
-
+![Streamlit UI Screenshot](ss_for_readme.png) <!-- Optional: Add a screenshot image -->
+![Streamlit UI Screenshot](ss_for_readme1.png)
+![Streamlit UI Screenshot](ss_for_readme2.png)
+![Streamlit UI Screenshot](ss_for_readme3.png)
+![Streamlit UI Screenshot](ss_for_readme4.png)
 ---
 
 ## 🚀 Features
